@@ -1,0 +1,48 @@
+*{margin:0; padding:0;}
+.special
+{
+  color:#ff0000
+}
+.main_form
+{
+  width:900px;
+  height:auto;
+  overflow: hidden;
+  border:3px solid #DC143C;
+  background-color: #FFCFDD;
+}
+#Choices, #Fillers
+{
+  width:45%;
+  display: inline-block;
+  vertical-align:top;
+  padding:2% 1% 2% 2%;
+}
+
+#control1, #control2, #control3,#control4, #selector1, #descr, #descr2
+{
+  width:50%;
+  border-radius: 10px;
+  padding: 0 2% 0 2%;
+  margin: 0 0 10px 0;
+}
+#selector1
+{
+  cursor:pointer;
+}
+#descr, #descr2
+{
+  height:40px;
+}
+#b1,#b2,#subbutton, #c1,#c2
+{
+  margin: 10px 0 10px 0;
+}
+#subbutton
+{
+  width:150px;
+  background: #DDD;
+  padding: 4px;
+  border-radius: 10px;
+  cursor:pointer;
+}

@@ -1,0 +1,54 @@
+*{margin:0; padding:0;}
+html, body
+{
+  height:400px;
+  width:600px;
+  background-color: #333;
+}
+div
+{
+  z-index: 0;
+}
+#square
+{
+    width:100px;
+    height:100px;
+    background-color: #FA5;
+    position: absolute;
+}
+#circle
+{
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+  background-color: #DDD;
+  position: absolute;
+
+}
+#triangle-up
+{
+  width:0px;
+  height:0px;
+  border: 50px solid transparent;
+  border-top: 50px solid #B00;
+  position: absolute;
+
+}
+#triangle-down
+{
+  width:0px;
+  height:0px;
+  border: 50px solid transparent;
+  border-bottom: 50px solid #B00;
+  position: absolute;
+
+}
+img
+{
+  position: fixed;
+  top:0; left:0; right:0; bottom:0;
+  margin:auto;
+  z-index: 2;
+  width:300px;
+  height:300px;
+}

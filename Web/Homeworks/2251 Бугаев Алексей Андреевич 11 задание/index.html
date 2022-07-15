@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang = "zxx">
+<head>
+  <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
+  <link href="./css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="./css/styles.css" rel="stylesheet" type="text/css"/>
+  <script src="./scripts/jquery-3.6.0.min.js"></script>
+  <script>
+  var step=0;
+  function ShowToShow (){
+      jQuery( "#hidden" ).click(function() {
+          jQuery( "#toShow" ).slideToggle( {
+            duration:400,
+             complete:function(){
+               step+=1;
+                var block_for_style_remove = document.getElementById('toShow');
+                if (step%2==0)
+                {block_for_style_remove.removeAttribute("style");}
+
+
+              }});
+      });}
+  </script>
+
+
+  <title>Библиотечки</title>
+</head>
+
+<body onload="ShowToShow();">
+<header>
+    <nav>
+      <button type="button" id = "hidden" class="btn btn-danger">Menu</button>
+      <div id="toShow">
+        <button type="button" class="btn btn-danger other">Memes</button>
+        <button type="button" class="btn btn-danger other">About</button>
+        <button type="button" class="btn btn-danger other">Contacts</button>
+      </div>
+    </nav>
+</header>
+
+</body>
+</html>

@@ -1,0 +1,201 @@
+footer
+{
+
+  width:100%;
+  /*line-height: 1;*/
+  color: #000;
+  font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;
+  font-weight: 300;
+  letter-spacing: -.03em;
+
+}
+.Hinfoblock
+{
+  font-size: 16px;
+  font-weight: 700;
+}
+.infoBlock-link
+{
+  color: #000;
+  display:block;
+  margin-bottom: 10px;
+}
+.footer-section1
+{
+  text-align: center;
+
+  width:100%;
+  background: #FFF;
+}
+.footer-section1-wrapper
+{
+  padding: 80px 0px;
+  display: inline-block;
+  width:80%;
+  border-top: 1px solid #808080;
+}
+.footer-section1-infoBlock
+{
+  display: inline-block;
+
+  vertical-align: top;
+  text-align: left !important;
+  margin: 0 20px;
+}
+.linkline-link
+{
+
+  margin-right:5px;
+}
+#infoBlock-linkline
+{
+  display: block;
+}
+#underlineInput
+{
+  width:120%;
+  margin-top: 20px;
+}
+.btnSubscribe
+{
+  margin-top: 20px;
+  line-height: 30px;
+  height:30px;
+  width:100%;
+  font-size: 14px;
+    font-weight: 700;
+    border:none;
+    outline: none;
+}
+.linkline-link
+{
+  display: inline-block;
+}
+
+/*другая часть футера*/
+.footer-section2
+{
+  color: #FFF;
+    background: #101526;
+    width:100%;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: left;
+    padding: 1px 0;
+    position: relative;
+    text-align: center;
+}
+.footer-section2-wrapper
+{
+    text-align: left;
+}
+#footer-section2-line-number
+{
+  float:right;
+  margin: 10px 0;
+}
+.footer-section2-line
+{
+  display: block;
+  margin: 10px 0;
+}
+.footer-section2-line-text
+{
+  display: inline-block;
+
+  margin: 0 9px 0 0;
+}
+.footer-section2-wrapper
+{
+
+  display: inline-block;
+  width:85%;
+}
+
+@media screen and  (max-width: 1540px)
+{
+  .footer-section1-infoBlock {
+    width:25%;
+  }
+}
+@media screen and  (max-width: 940px)
+{
+  .linkline-link
+  {
+    width: 25%;
+  }
+  .linkline-link-icon
+  {
+    width:16px;
+    height:16px;
+  }
+  .Hinfoblock
+  {
+    font-size: 16px;
+    line-height: 17px;
+    font-weight: 700;
+    margin-bottom: 9px;
+  }
+  .infoBlock-link,#infoBlock-underlinkline
+  {
+    font-size: 14px;
+  }
+  .footer-section1-infoBlock
+  {
+    width:30%;
+  }
+
+  .btnSubscribe
+  {
+    margin-top: 20px;
+    line-height: 30px;
+    height:30px;
+    width:100%;
+    font-size: 14px;
+      font-weight: 700;
+      border:none;
+      outline: none;
+  }
+  .footer-section2
+  {
+      font-size: 17px;
+  }
+
+  .footer-section2-line-text
+  {
+    margin: 0 1px 0 0;
+
+  }
+  .footer-section2-wrapper
+  {
+    width:80%;
+  }
+  .footer-section2-wrapper
+  {
+
+    display: inline-block;
+    width:90%;
+  }
+}
+@media screen and  (max-width: 440px)
+{
+  #underlineInput
+  {
+    width:100%;
+  }
+  .Hinfoblock
+  {
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .infoBlock-link
+  {
+    font-size: 10px;
+
+  }
+  .btnSubscribe, #underlineInput
+  {
+    font-size: 10px;
+    line-height: 12px;
+  }
+}

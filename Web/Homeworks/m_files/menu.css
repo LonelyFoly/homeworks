@@ -1,0 +1,103 @@
+
+
+.yui-skin-sam .yuimenubar>.bd>ul:unknown {
+	clear: both;
+	display: block;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+	content: "."
+}
+
+.yui-skin-sam .yuimenubaritem {
+	float: left
+}
+
+.yui-skin-sam .yuimenubarnav .yuimenubaritem {
+	background: url(./images-stir/bg-li.gif) no-repeat right 13px
+}
+
+.yui-skin-sam .yuimenubaritemlabel {
+	display: block;
+	text-transform: uppercase;
+	color: #fff;
+	position: relative;
+	text-decoration: none
+}
+
+.yui-skin-sam .yuimenubaritemlabel-selected {
+	background: url(./images-stir/bg-li-act.gif) repeat-x 50% top
+}
+
+.yui-skin-sam .yuimenubaritem a.active {
+	background: url(./images-stir/bg-li-act.gif) repeat-x 50% top
+}
+
+.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel {
+	padding-right: 10px;
+	padding-left: 40px;
+	padding-bottom: 16px;
+	width: 104px;
+	padding-top: 18px
+}
+
+.yui-skin-sam .yuimenu .bd {
+	padding-right: 15px;
+	padding-left: 15px;
+	z-index: 500;
+	background: url(.s/images-stir/sub-li-act.png);
+	left: 0;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	position: relative;
+	top: 0
+}
+
+.yui-skin-sam .yuimenu ul {
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 3px;
+	padding-top: 3px
+}
+
+.yui-skin-sam li.first-of-type a.active {
+	background: url(./images-stir/first-li-act.gif) no-repeat 0 0
+}
+
+.yui-skin-sam li.first-of-type a.yuimenubaritemlabel-selected {
+	background: url(./images-stir/first-li-act.gif) no-repeat 0 0
+}
+
+.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel-hassubmenu {
+	background: url(./images-stir/bg-li-sub.gif) no-repeat right center
+}
+
+.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel-hassubmenu-selected {
+	background: url(./images-stir/sub-li-act2.gif) no-repeat right 0
+}
+
+.yui-skin-sam .yuimenubaritem-hassubmenu a.active {
+	background: url(./images-stir/sub-li-act2.gif) no-repeat right 0
+}
+
+.yui-skin-sam .yuimenuitemlabel {
+	display: block;
+	padding-left: 12px;
+	font-size: 10px;
+	background: url(./images-stir/sub-menu-act.gif) no-repeat 0 center;
+	text-transform: uppercase;
+	color: #b3b3b3;
+	line-height: 25px;
+	position: relative;
+	text-decoration: none
+}
+
+.yui-skin-sam .yuimenuitemlabel-selected {
+	background: url(./images-stir/sub-menu-act.gif) no-repeat 0 center;
+	color: #fff
+}
+
+.yui-skin-sam .bd .yuimenuitem a.active {
+	background: url(./images-stir/sub-menu-act.gif) no-repeat 0 center;
+	color: #fff
+}

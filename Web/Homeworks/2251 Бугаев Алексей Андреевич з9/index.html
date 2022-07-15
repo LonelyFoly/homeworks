@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang = "zxx">
+<head>
+  <meta charset="utf-8"/>
+  <title>Рисовашка</title>
+</head>
+<body>
+<canvas id="canvas" width="600" height="600"></canvas>
+<script>
+var zn=1;
+var divis = "right";
+var buildPic = function()
+{
+
+
+    if (activeframe == frames && divis =="right")
+    {
+      zn*=-1;
+      divis = "left";
+    }
+    else if (activeframe == 0 && divis =="left")
+    {
+      zn*=-1;
+      divis = "right";
+    }
+
+    activeframe+=zn;
+    pen.drawImage(img, w * activeframe, 0, w, h, 0, 0, w, h);
+
+  }
+  var w = 600;
+  var h = 600;
+  var frames = 19;
+  var canvas = document.getElementById("canvas");
+  var pen = canvas.getContext("2d");
+  var img = new Image();
+  var activeframe = 0;
+  img.src = './sprite.png';
+
+
+  setInterval(buildPic, 100);
+</script>
+</body>
+</html>

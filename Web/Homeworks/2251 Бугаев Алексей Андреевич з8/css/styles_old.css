@@ -1,0 +1,121 @@
+*{margin:0; padding:0;}
+html, body
+{
+  height:100%;
+  width:100%;
+}
+
+h1
+{
+  margin: 40px 0 50px 4%;
+}
+.main_form
+{
+  width:auto;
+  /*height:400px;*/
+  overflow: hidden;
+  border:3px solid #DC143C;
+  background-color: #FFCFDD;
+}
+
+.question
+{
+  display: inline-block;
+  padding: 15px;
+}
+
+.testblock
+{
+  width:100%;
+  display: block;
+  vertical-align:top;
+  padding:1px 1% 20px 4%;
+
+}
+
+
+.tb_1
+{
+  background-color:#cf6585;
+}
+.tb_2
+{
+  background-color: #c165cf;
+}
+.h
+{
+  font-size: 16px;
+  font-style: italic;
+  font-weight: bold;
+  margin: 20px 0 8px 0;
+}
+label
+{
+  display: block;
+  font-size:14px;
+}
+
+.answer_green
+{
+  color:#77ff6b;
+}
+
+.answer_green_
+{
+
+}
+
+.answer_red
+{
+  color:#c20000;
+}
+
+.answer_red_
+{
+
+}
+
+/*  cursor:pointer;*/
+
+#subbutton
+{
+  margin: 10px 0 10px 4%;
+}
+#subbutton
+{
+  width:80px;
+  background: #DDD;
+  padding: 4px;
+  border-radius: 10px;
+  cursor:pointer;
+}
+
+@media screen and  (max-width: 1000px)
+{
+  .main_form
+  {
+    width:70%;
+
+
+    border:2px solid #DC143C;
+
+  }
+
+
+
+}
+@media screen and  (max-width: 400px)
+{
+  .main_form
+  {
+    width:300px;
+    border:1px solid #DC143C;
+
+  }
+
+  #Choices, #Fillers
+  {
+    width:90%;
+    display: block;
+
+}

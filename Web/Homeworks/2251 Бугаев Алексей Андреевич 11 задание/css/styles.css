@@ -1,0 +1,62 @@
+*{margin:0; padding:0;}
+html, body
+{
+  height:100%;
+  width:100%;
+}
+nav
+{
+  background-color:#d94a75;
+  height:50px;
+  width:100%;
+  text-align: center;
+}
+.other
+{
+  display: inline-block;
+}
+
+.btn
+{
+  margin: 5px 5px 0 5px;
+
+  height:40px;
+  width:90px;
+  display: inline-block;
+}
+
+#hidden
+{
+  display:none;
+}
+@media screen and  (max-width: 800px)
+{
+  .other
+  {
+    display: block;
+  }
+  #toShow
+  {
+    background-color:#d94a75;
+    width:100px;
+    height:135px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+  }
+  #hidden
+  {
+    display: inline-block;
+
+  }
+}
+@media screen and  (min-width: 800px)
+{
+
+  #toShow
+  {
+    display:inline-block;
+  }
+
+}

@@ -1,0 +1,182 @@
+* {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY#body {
+	FONT-SIZE: 12px; COLOR: #484844; PADDING-TOP: 28px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+UL {
+	LIST-STYLE-IMAGE: none; LIST-STYLE-TYPE: none
+}
+UL LI {
+	LIST-STYLE-IMAGE: none; LIST-STYLE-TYPE: none
+}
+TABLE {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-COLLAPSE: collapse; BORDER-RIGHT-WIDTH: 0px
+}
+TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TBODY {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+A {
+	COLOR: #ec6a00; outline: none
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+
+FIELDSET {
+	BORDER-RIGHT: #bfc2c8 1px solid; BORDER-TOP: #bfc2c8 1px solid; OVERFLOW: hidden; BORDER-LEFT: #bfc2c8 1px solid; BORDER-BOTTOM: #bfc2c8 1px solid; POSITION: relative
+}
+FIELDSET LEGEND {
+	COLOR: #ec6a00
+}
+HTML.js FIELDSET.collapsed LEGEND {
+	DISPLAY: inline
+}
+FIELDSET A {
+	COLOR: #dd621e
+}
+FIELDSET .tips {
+	FONT-SIZE: 10px
+}
+.min-width {
+	MIN-WIDTH: 980px; ; WIDTH: expression(((document.documentElement.clientWidth || document.body.clientWidth) < 980)? "980px" : "100%")
+}
+#main {
+	MARGIN: 0px auto; WIDTH: 1100px
+}
+TABLE.system-status-report TH {
+	FONT-SIZE: 13px; COLOR: #000000; BORDER-BOTTOM: #bfc2c8 1px solid
+}
+THEAD TH {
+	FONT-SIZE: 13px; COLOR: #000000; BORDER-BOTTOM: #bfc2c8 1px solid
+}
+THEAD TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #bfc2c8 1px solid
+}
+TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #bfc2c8 1px solid
+}
+TR.even {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #bfc2c8 1px solid
+}
+TR.odd {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #bfc2c8 1px solid
+}
+#header {
+
+}
+
+.head-row2 {
+	WIDTH: 100%; HEIGHT: 135px
+}
+.head-row2 .col1 {
+	FLOAT: left;
+	WIDTH: 890px
+}
+.head-row2 .col2 {
+	FLOAT: right; PADDING-TOP: 50px
+}
+.head-row3 {
+	BACKGROUND: url(./images-stir/bg-row2.gif) no-repeat 0px 0px; MARGIN-LEFT: -68px; MARGIN-RIGHT: -68px; POSITION: relative; HEIGHT: 369px
+}
+.head-row4 {
+	WIDTH: 100%; HEIGHT: 202px
+}
+.logo {
+	MARGIN: 0 0 0 0
+}
+H1.site-name {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 30px; FONT-WEIGHT: bold; FONT-SIZE: 35px; PADDING-BOTTOM: 0px; TEXT-TRANSFORM: capitalize; PADDING-TOP: 70px; FONT-FAMILY: "Trebuchet MS"
+}
+H1.site-name A {
+	FONT-WEIGHT: normal; COLOR: #3b3b3b; LINE-HEIGHT: 30px; TEXT-DECORATION: none
+}
+.slogan {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 12px; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 0px; TEXT-TRANSFORM: none; COLOR: #000; PADDING-TOP: 4px
+}
+.slogan-img {
+	MARGIN: 135px 0px 0px 697px; POSITION: absolute
+}
+.breadcrumb {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 9px; FONT-WEIGHT: normal; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; COLOR: #fff; PADDING-TOP: 12px
+}
+.breadcrumb SPAN {
+	COLOR: #a5a5a5
+}
+.breadcrumb A {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; TEXT-TRANSFORM: uppercase; COLOR: #fff; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.breadcrumb A:hover {
+	TEXT-DECORATION: underline
+}
+.breadcrumb-current {
+	DISPLAY: inline-block; VERTICAL-ALIGN: middle; TEXT-TRANSFORM: uppercase
+}
+#footer {
+	FONT-SIZE: 10px; OVERFLOW: hidden; TEXT-TRANSFORM: uppercase; WIDTH: 100%; COLOR: #727272; TEXT-ALIGN: center
+}
+.foot {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; MARGIN: 0px auto; OVERFLOW: hidden; WIDTH: 892px; PADDING-TOP: 20px; TEXT-ALIGN: center
+}
+#footer A {
+	FONT-WEIGHT: normal; COLOR: #f7430d; TEXT-DECORATION: none
+}
+#footer A:hover {
+	TEXT-DECORATION: underline
+}
+#footer .foot SPAN {
+	PADDING-LEFT: 2px
+}
+
+.block .content {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 0px; PADDING-BOTTOM: 43px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+
+
+.bg-first-page {
+	BACKGROUND: url(./images-stir/bg.gif) #fafafa repeat-x 50% top
+}
+
+
+.anythingSlider {
+	FLOAT: left; WIDTH: 587px; POSITION: relative; HEIGHT: 352px
+}
+.anythingSlider .wrapper {
+	LEFT: 0px; WIDTH: 587px; POSITION: absolute; TOP: 1px; HEIGHT: 352px
+}
+.anythingSlider .wrapper UL {
+	LEFT: 0px; MARGIN: 0px; WIDTH: 9999px; LIST-STYLE-TYPE: none; POSITION: absolute; TOP: 0px
+}
+.anythingSlider UL LI {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 587px; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 352px
+}
+.anythingSlider UL LI IMG.slide {
+	FLOAT: left
+}
+.anythingSlider .arrow {
+	DISPLAY: block; MARGIN: 0px; WIDTH: 31px; CURSOR: pointer; TEXT-INDENT: -9999px; POSITION: absolute; TOP: 260px; HEIGHT: 34px
+}
+.anythingSlider .back {
+	BACKGROUND: url(./images-stir/prev.gif) no-repeat 0px 0px; MARGIN-LEFT: 764px
+}
+.anythingSlider .back:hover {
+	BACKGROUND: url(./images-stir/prev-active.gif) no-repeat 0px 0px
+}
+.anythingSlider .forward {
+	BACKGROUND: url(./images-stir/next.gif) no-repeat 0px 0px; MARGIN-LEFT: 795px
+}
+.anythingSlider .forward:hover {
+	BACKGROUND: url(./images-stir/next-active.gif) no-repeat 0px 0px
+}
+#start-stop {
+	DISPLAY: none
+}

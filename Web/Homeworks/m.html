@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xml:lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Сеть печатных салонов ШТИРЛИЦ. Весь комплекс печатных услуг в Перми. Общирная сеть печатных салонов в Перми. Цифровая печать, цветное и черно-белое копирование документов, сканирование документов, ризография в Перми</title>
+
+      <link href="./m_files/images-stir/logo.png" type="image/x-icon" rel="shortcut icon">
+      <link media="all" href="./m_files/style.css" type="text/css" rel="stylesheet">
+      <script src="./m_files/jquery.packed.js" type="text/javascript"></script>
+
+      <script src="./m_files/jquery.anythingslider.js" type="text/javascript"></script>
+      <script type="text/javascript">
+         function formatText(index, panel) {
+         return index + '';
+         }
+
+         $(function () {
+
+               $('.anythingSlider').anythingSlider({
+                    easing: 'swing',                // Anything /other-stir than 'linear' or 'swing' requires the easing plugin
+                    autoPlay: true,                 // This turns off the entire FUNCTIONALY, not just if it starts running or not.
+                    delay: 4000,                    // How long between slide transitions in AutoPlay mode
+                    startStopped: false,            // If autoPlay is on, this can force it to start stopped
+                    animationTime: 600,             // How long the slide transition takes
+                    hashTags: true,                 // Should links change the hashtag in the URL?
+                    buildNavigation: false,          // If true, builds and list of anchor links to link to each slide
+                    pauseOnHover: true,             // If true, and autoPlay is enabled, the show will pause on hover
+                    navigationFormatter: formatText       // Details at the top of the file on this use (advanced use)
+               });
+
+               $('#slide-jump').click(function(){
+                    $('.anythingSlider').anythingSlider(6);
+               });
+
+         });
+      </script>
+      <link media="all" href="./m_files/menu.css" type="text/css" rel="stylesheet">
+   </head>
+   <body class="yui-skin-sam bg-first-page" id="body">
+      <div class="min-width">
+         <div id="main">
+            <div id="header">
+               <div class="head-row3">
+                  <div class="shadow-left"></div>
+                  <div class="shadow-right png"></div>
+                  <img class="slogan-img" title="" height="78" alt="" src="./m_files/slogan2.gif" width="196">
+                  <div style="PADDING-LEFT: 68px">
+                     <div class="anythingSlider">
+                        <div class="wrapper" style="overflow: hidden;">
+                           <ul>
+                              <li class="cloned"><img alt="" src="./m_files/slide3.jpg"> </li>
+                              <li><img alt="" src="./m_files/slide1.jpg"></li>
+                              <li><img alt="" src="./m_files/slide2.jpg"></li>
+                              <li><img alt="" src="./m_files/slide3.jpg"></li>
+                              <li class="cloned"><img alt="" src="./m_files/slide1.jpg"></li>
+                           </ul>
+                        </div>
+
+                     </div>
+                  </div>
+               </div>
+
+            </div>
+         </div>
+      </div>
+   </body>
+</html>

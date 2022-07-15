@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang = "zxx">
+<head>
+  <meta charset="utf-8"/>
+  <link href="./css/styles.css" rel="stylesheet" type="text/css"/>
+  <script src="scripts/main_script.js"></script>
+  <script src="scripts/add_script.js"></script>
+  <title> Слайдер </title>
+</head>
+
+<body onload="define_count_of_sliders();">
+<div class="slider" id="sliderCats">
+
+  <div class="slide inactiveSlide" style="background-image:url(./images/2.png)"></div>
+  <div class="slide inactiveSlide" style="background-image:url(./images/3.jpg)">
+  <span class="button2"><a href="www.vk.com/lonelyfoly">Пыщ!</a></span>
+  </div>
+  <div class="slide inactiveSlide" style="background-image:url(./images/4.png)"></div>
+  <div class="slide activeSlide" style="background-image:url(./images/1.jpg)"></div>
+  <span class="arrow leftArrow" onclick="slideChange('sliderCats','left',true);">&lt;</span>
+  <span class="arrow rightArrow" onclick="slideChange('sliderCats','right',true);">&gt;</span>
+  <span class="button" onclick="autoplay('sliderCats');">&#9881;</span>
+</div>
+
+<div class="slider" id="sliderHogs">
+
+  <div class="slide inactiveSlide" style="background-image:url(./images/6.jpg)"></div>
+  <div class="slide inactiveSlide" style="background-image:url(./images/7.jpg)">
+  <span class="button2"><a href="www.vk.com/lonelyfoly">Пыщ!</a></span>
+  </div>
+  <div class="slide inactiveSlide" style="background-image:url(./images/8.jpg)"></div>
+  <div class="slide activeSlide" style="background-image:url(./images/5.jpg)"></div>
+  <span class="arrow leftArrow" onclick="slideChange('sliderHogs','left',true);">&lt;</span>
+  <span class="arrow rightArrow" onclick="slideChange('sliderHogs','right',true);">&gt;</span>
+  <span class="button" onclick="autoplay('sliderHogs');">&#9881;</span>
+</div>
+
+</body>
+</html>

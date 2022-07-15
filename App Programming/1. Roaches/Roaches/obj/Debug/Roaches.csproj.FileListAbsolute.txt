@@ -1,0 +1,40 @@
+C:\Users\buaa.20\Desktop\Roaches\Roaches\bin\Debug\Roaches.exe.config
+C:\Users\buaa.20\Desktop\Roaches\Roaches\bin\Debug\Roaches.exe
+C:\Users\buaa.20\Desktop\Roaches\Roaches\bin\Debug\Roaches.pdb
+C:\Users\buaa.20\Desktop\Roaches\Roaches\obj\Debug\Roaches.csprojAssemblyReference.cache
+C:\Users\buaa.20\Desktop\Roaches\Roaches\obj\Debug\Roaches.Form1.resources
+C:\Users\buaa.20\Desktop\Roaches\Roaches\obj\Debug\Roaches.Properties.Resources.resources
+C:\Users\buaa.20\Desktop\Roaches\Roaches\obj\Debug\Roaches.csproj.GenerateResource.cache
+C:\Users\buaa.20\Desktop\Roaches\Roaches\obj\Debug\Roaches.exe
+C:\Users\buaa.20\Desktop\Roaches\Roaches\obj\Debug\Roaches.pdb
+F:\Roaches\Roaches\bin\Debug\Roaches.exe.config
+F:\Roaches\Roaches\bin\Debug\Roaches.exe
+F:\Roaches\Roaches\bin\Debug\Roaches.pdb
+F:\Roaches\Roaches\obj\Debug\Roaches.csprojAssemblyReference.cache
+F:\Roaches\Roaches\obj\Debug\Roaches.Form1.resources
+F:\Roaches\Roaches\obj\Debug\Roaches.Properties.Resources.resources
+F:\Roaches\Roaches\obj\Debug\Roaches.csproj.GenerateResource.cache
+F:\Roaches\Roaches\obj\Debug\Roaches.csproj.CoreCompileInputs.cache
+F:\Roaches\Roaches\obj\Debug\Roaches.exe
+F:\Roaches\Roaches\obj\Debug\Roaches.pdb
+D:\Roaches\Roaches\bin\Debug\Roaches.exe.config
+D:\Roaches\Roaches\bin\Debug\Roaches.exe
+D:\Roaches\Roaches\bin\Debug\Roaches.pdb
+D:\Roaches\Roaches\obj\Debug\Roaches.csprojAssemblyReference.cache
+D:\Roaches\Roaches\obj\Debug\Roaches.Form1.resources
+D:\Roaches\Roaches\obj\Debug\Roaches.Properties.Resources.resources
+D:\Roaches\Roaches\obj\Debug\Roaches.csproj.GenerateResource.cache
+D:\Roaches\Roaches\obj\Debug\Roaches.csproj.CoreCompileInputs.cache
+D:\Roaches\Roaches\obj\Debug\Roaches.exe
+D:\Roaches\Roaches\obj\Debug\Roaches.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\bin\Debug\Roaches.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\bin\Debug\Roaches.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\bin\Debug\Roaches.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.Form1.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Roaches\Roaches\obj\Debug\Roaches.pdb

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang = "zxx">
+<head>
+  <meta charset="utf-8"/>
+  <title>Рисовашка</title>
+</head>
+
+<body>
+  <!-- width per frame = 600 -->
+<canvas id="canvas" width="12000" height="600"></canvas>
+<script>
+
+  var canvas = document.getElementById("canvas");
+  var pen = canvas.getContext("2d");
+  pen.fillStyle = "#A4C9EA";
+  pen.fillRect(0, 0, canvas.width, canvas.height);
+  pen.strokeStyle = "black";
+
+  pen.fillStyle="green";
+  pen.fillRect(0, 510, canvas.width, 90);
+  pen.moveTo(0,510);
+  pen.lineTo(canvas.width,510);
+  pen.lineWidth=1;
+  pen.stroke();
+
+for (var t = 0; t < 20; t++)
+{
+
+//Цветочки
+var y =0;
+  for (var i = 0; i < 20; i++)
+      {
+        var iter = 27+28*i;
+        var r1= 6;
+        var r2=10;
+        if (i%2==0)
+        {
+          y=520;
+        }
+        else {
+          y=560;
+        }
+        pen.beginPath();
+        pen.fillStyle="yellow";
+        pen.arc(iter+600*t,y,r1,0,Math.PI*2, true);
+        pen.fill();
+        pen.stroke();
+        pen.beginPath();
+        pen.lineWidth=1;
+        pen.fillStyle="white";
+        pen.arc(iter+600*t,y-r1-r2,r2,0,Math.PI*2, true);
+        pen.stroke();
+        pen.fill();
+        pen.beginPath();
+        pen.arc(iter+600*t,y+r1+r2,r2,0,Math.PI*2, true);
+        pen.stroke();
+        pen.fill();
+        pen.beginPath();
+        pen.arc(iter-r2-r1+600*t,y,r2,0,Math.PI*2, true);
+        pen.stroke();
+        pen.fill();
+        pen.beginPath();
+        pen.arc(iter+r2+r1+600*t,y,r2,0,Math.PI*2, true);
+        pen.stroke();
+        pen.fill();
+      }
+
+
+  pen.fillStyle="black";
+  pen.fillRect(290+600*t,100,20,200);
+  //Бабочбка
+  pen.beginPath();
+  pen.bezierCurveTo(310+600*t,120,480+600*t,50,500+600*t,100);
+  pen.bezierCurveTo(500+600*t,100,520+600*t,185,350+600*t,250);
+  pen.bezierCurveTo(420+600*t,250,460+600*t,400,310+600*t,290);
+  //pen.stroke();
+  //pen.beginPath()
+  pen.moveTo(290+600*t, 120);
+  pen.bezierCurveTo(290+600*t,120,120+600*t,50,100+600*t,100);
+  pen.bezierCurveTo(100+600*t,100,80+600*t,185,250+600*t,250);
+  pen.bezierCurveTo(180+600*t,250,140+600*t,400,290+600*t,290);
+  pen.stroke();
+
+
+  var gr=pen.createLinearGradient(300+600*t,100,300+600*t,300);
+  if (t%6==0 || t%6==1){
+    gr.addColorStop(0,"#FF77FF");
+    gr.addColorStop(.7,"#43F494");
+    gr.addColorStop(1,"#76AEE0");
+  }
+  if (t%6==2 || t%6==3){
+    gr.addColorStop(1,"#FF77FF");
+    gr.addColorStop(0,"#43F494");
+    gr.addColorStop(0.7,"#76AEE0");
+  }
+  if (t%6==4 || t%6==5){
+    gr.addColorStop(0.7,"#FF77FF");
+    gr.addColorStop(1,"#43F494");
+    gr.addColorStop(0,"#76AEE0");
+  }
+
+  pen.fillStyle=gr;
+  pen.fill();
+
+  pen.lineWidth=2;
+  pen.stroke();
+  var x=0;
+  var y =0;
+  pen.fillStyle="grey";
+
+//Облачка
+  pen.beginPath();
+  pen.moveTo(100+600*t+t*22,60);
+  x=100+600*t+t*22;
+  y=60;
+  pen.bezierCurveTo(x,y,x+20,y-30,x+40,y);
+  pen.bezierCurveTo(x+40,y,x+60,y-10,x+70,y+20);
+  pen.bezierCurveTo(x+70,y+20,x+70,y+60,x+30,y+40);
+  pen.bezierCurveTo(x+30,y+40,x+15,y+55,x-10,y+40);
+  pen.bezierCurveTo(x-40,y+30,x-40,y-5,x,y);
+  pen.stroke();
+  pen.fill();
+
+  pen.beginPath();
+  pen.moveTo(530+600*t-t*22,220);
+  x=530+600*t-t*22;
+  y=220;
+  pen.bezierCurveTo(x,y,x+20,y-30,x+40,y);
+  pen.bezierCurveTo(x+40,y,x+60,y-10,x+70,y+20);
+  pen.bezierCurveTo(x+70,y+20,x+70,y+60,x+30,y+40);
+  pen.bezierCurveTo(x+30,y+40,x+15,y+55,x-10,y+40);
+  pen.bezierCurveTo(x-40,y+30,x-40,y-5,x,y);
+  pen.stroke();
+  pen.fill();
+}
+</script>
+</body>
+</html>

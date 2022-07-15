@@ -1,0 +1,206 @@
+*{margin:0; padding:0;}
+html, body
+{
+  height:100%;
+  width:100%;
+  background-color: #ffd587;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1
+{
+  margin: 0px 0 50px 4%;
+  color: #e66c20;
+}
+
+.textstring,.textstring_c
+{
+  width:160px;
+}
+.main_form
+{
+  width:auto;
+  /*height:400px;*/
+  overflow: hidden;
+}
+
+.question, .corrector
+{
+  position: relative;
+  line-height: 1;
+  display: inline-block;
+  width: 29%;
+
+  padding: 15px;
+  text-align:center;
+  vertical-align: top;
+  color: white;
+
+}
+.question
+{
+  height: 130px;
+  top:50%;
+  transform: translateY(-50%);
+}
+.corrector
+{
+
+  top:40%;
+  transform: translateY(-40%);
+}
+
+.testblock
+{
+  width: 90%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0;
+  display: block;
+  height:250px;
+}
+
+
+.tb_1
+{
+  background-color:#ff8d36;
+}
+.tb_2
+{
+  background-color: #ffb663;
+}
+.h
+{
+  font-size: 16px;
+  margin: 20px 0 8px 0;
+
+}
+
+label, p
+{
+  display: inline-block;
+  font-size:14px;
+  margin-top: 5px;
+
+
+}
+label
+{
+  cursor:pointer;
+
+}
+
+
+.corrector
+{
+  color: #377814;
+  font-weight: bold;
+}
+.visible
+{
+  display:none;
+}
+.visible_
+{
+  display:inline-block;
+}
+/*  cursor:pointer;*/
+
+#subbutton
+{
+  margin: 10px 0 10px 6%;
+}
+#subbutton
+{
+  width:160px;
+  background: #c860fc;
+  color: white;
+  font-size: 25px;
+  padding: 4px;
+  border-radius: 20px;
+  border: none;
+
+  cursor:pointer;
+}
+.green_
+{
+color: #377814;
+font-weight: bold;
+}
+.text_green_
+{
+color: #377814;
+font-weight: bold;
+}
+.text_norm_
+{
+color: black;
+font-weight: bold;
+}
+
+
+
+@media screen and  (max-width: 800px)
+{
+  .textstring, .textstring_c
+  {
+    width: 100px;
+  }
+  .textstring_c
+  {
+    font-size:6px;
+  }
+  input
+  {
+     zoom:0.6;
+  }
+
+  .question, .corrector
+  {
+    padding: 5px;
+  }
+  .h
+  {
+    font-size: 8px;
+    /*margin: 20px 0 8px 0;*/
+  }
+
+  label, p
+  {
+
+    font-size:6px;
+    /*margin-top: 5px;*/
+  }
+}
+@media screen and  (max-width: 400px)
+{
+
+  .textstring_c
+  {
+    font-size:4px;
+    width:50px;
+  }
+  input
+  {
+     zoom:0.3;
+
+  }
+  .question, .corrector
+  {
+    padding: 2px;
+  }
+  .h
+  {
+    font-size: 6px;
+    /*margin: 20px 0 8px 0;*/
+  }
+
+  label, p
+  {
+
+    font-size:4px;
+    /*margin-top: 5px;*/
+  }
+
+}

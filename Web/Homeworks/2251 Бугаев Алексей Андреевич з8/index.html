@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang = "zxx">
+<head>
+  <meta charset="utf-8"/>
+  <link href="./css/styles.css" rel="stylesheet" type="text/css"/>
+  <script src="scripts/index_script.js"> </script>
+  <meta name="viewport" content="width=device-width"/>
+  <title> Тест</title>
+</head>
+
+<body>
+  <form name = "main_form" class= "main_form" method ="get" onsubmit="return func_input();" >
+
+<h1>Тест на знание котиков!</h1>
+
+
+
+<div class="testblock tb_1">
+<div class="question " >
+<p class="h">Как называется чрезмерная <br> любовь к кошкам?</p><br>
+<label class = "variant green"><input type = "radio" name ="r1" value ="1"/>Айлурофилия</label><br>
+<label class = "variant red"><input type = "radio" name ="r1" value ="0"/>Фелисомания</label><br>
+<label class = "variant red"><input type = "radio" name ="r1" value ="0"/>Гамомания</label>
+</div>
+
+<div class="question">
+<p class="h">В каком государстве за вывоз <br> кошек было самое жестокое наказание?</p><br>
+<label class = "variant red"><input type = "radio" name ="r2" value ="0"/>Китай</label><br>
+<label class = "variant green"><input type = "radio" name ="r2" value ="1"/>Древний Египет</label><br>
+<label class = "variant red"><input type = "radio" name ="r2" value ="0"/>Индия</label>
+</div>
+
+<div class="question" >
+<p class="h">Где встреча с черной кошкой – <br> предвестие удачи</p><br>
+<label class = "variant red"><input type = "radio" name ="r3" value ="0"/>В Европе и Северной Америке</label><br>
+<label class = "variant red"><input type = "radio" name ="r3" value ="0"/>В Сингапуре и Таиланде</label><br>
+<label class = "variant green"><input type = "radio" name ="r3" value ="1"/>В Великобратиании и Австралии</label>
+
+</div>
+
+</div>
+
+<div class="testblock tb_2">
+
+<div class="question">
+<p class="h">Кошачий корм</p><br>
+<label class = "variant green"><input type = "checkbox" name ="c1" value ="1"/>Вискас</label><br>
+<label class = "variant red"><input type = "checkbox" name ="c1" value ="0"/>Педигри</label><br>
+<label class = "variant red"><input type = "checkbox" name ="c1" value ="0"/>Анальгин</label><br>
+<label class = "variant green"><input type = "checkbox" name ="c1" value ="1"/>Китикет</label>
+</div>
+
+<div class="question">
+<p class="h"> Выберите породы кошек</p><br>
+<label class = "variant red"><input type = "checkbox" name ="c2" value ="0"/>Ши-тцу</label><br>
+<label class = "variant red"><input type = "checkbox" name ="c2" value ="0"/>Шелти</label><br>
+<label class = "variant green"><input type = "checkbox" name ="c2" value ="1"/>Мейн-кун</label><br>
+<label class = "variant green"><input type = "checkbox" name ="c2" value ="1"/>Манчкин</label>
+</div>
+
+<div class="question" >
+<p class="h"> Какие кошачьи окраски существуют?</p><br>
+<label class = "variant green"><input type = "checkbox" name ="c3" value ="1"/>Черепаховая</label><br>
+<label class = "variant red"><input type = "checkbox" name ="c3" value ="0"/>Крокодиловая</label><br>
+<label class = "variant green"><input type = "checkbox" name ="c3" value ="1"/> Смокинг</label><br>
+<label class = "variant red"><input type = "checkbox" name ="c3" value ="0"/>Галстук</label>
+</div>
+
+</div>
+
+
+<div class="testblock tb_1">
+
+<div class="question" >
+ <label  class="h" for="q1">Имя кота, у которого была<br>корова по имени Мурка!</label> <br> <input class="textstring" type = "text"
+  name= "q1" id="q1" placeholder="Введите"/>
+</div>
+
+<div class="question" >
+  <label class="h" for="q2">Этого кота придумал<br> Уолт Дисней</label> <br> <input type = "text" class="textstring"
+  name= "q2" id="q2" placeholder="Введите"/>
+</div>
+
+<div class="question" >
+  <label class="h" for="q3">Этот котенок носил имя <br> собачьего междометия!</label> <br> <input type = "text" class="textstring"
+  name= "q3" id="q3" placeholder="Введите"/>
+</div>
+</div>
+
+
+<div class="testblock tb_2">
+  <div class="question" >
+    <label class="h" for="selector1">В каком городе установлен памятник коту Пантелеймону </label> <br>
+    <select class="textstring_c"  name="selector1" id="selector1">
+      <option  value="-1">~~~Сделайте выбор~~~</option>
+      <option value="1">Киев</option>
+      <option  value="0">Москва</option>
+      <option  value="0">Париж</option>
+      <option  value="0">Кимры</option>
+    </select>
+  </div>
+
+    <p class="corrector visible" >Верно!</p>
+
+</div>
+
+<br>
+
+
+<input type="submit" value="Проверить" name="subbutton" id ="subbutton"/>
+
+  </form>
+
+</body>
+</html>

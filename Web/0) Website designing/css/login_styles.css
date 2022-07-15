@@ -1,0 +1,226 @@
+*{margin:0; padding:0;}
+html, body
+{
+  height:100%;
+  width:100%;
+  /*line-height: 1;*/
+
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;
+  font-weight: 300;
+  color: #000;
+  letter-spacing: -.03em;
+  position: relative;
+}
+
+#login-background
+{
+  position: absolute;
+  top:0;
+  height:100%;
+  width:100%;
+  z-index: 0;
+}
+#login-centerBlock
+{
+  width:60%;
+  height:70%;
+  display: block;
+  position: absolute;
+  z-index:1;
+  top:0; left:0; bottom:0; right:0;
+  margin:auto;
+}
+
+
+#login-logo
+{
+  display: block;
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+}
+
+#login-form
+{
+  margin-top: 65px;
+  border-radius: 14px;
+  position: relative;
+  width:100%;
+  background-color: #FFF;
+  height:70%;
+  padding-top:5%;
+
+}
+#inputsWrapper
+{
+  width:80%;
+  height:40%;
+  position: relative;
+  display: block;
+
+  left:0; right:0;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom: 30px;
+}
+.login-form-element
+{
+  border-radius: 4px;
+  background-color:#FFF;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  width:100%;
+  height:30%;
+  border: solid 1px #7d94c2;
+  font-size: 16px;
+  color:#000;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+}
+.login-form-Icon
+{
+  position: absolute;
+    left: 1%;
+    top: 15%;
+    width: 22px;
+    height: 22px;
+    z-index:3;
+}
+.login-form-element-input
+{
+  position: absolute;
+  top:0;
+  margin-left: 10%;
+  width:90%;
+  height:100%;
+  border:none;
+  outline:none;
+}
+
+#underInputs
+{
+  width:80%;
+  display: block;
+  left:0; right:0;
+  margin-left: auto;
+  margin-right:auto;
+}
+#underInputs-link
+{
+  color:#FF6B00;
+  float:right;
+}
+#c1
+{
+  background: #FFF;
+}
+#cbRememberMe
+{
+  font-size: 14px;
+  vertical-align: text-top;
+}
+#cbRememberMe, #underInputs-link
+{
+  display: inline-block;
+}
+.btn
+{
+  text-align: center;
+  color:#FFF;
+  width:90%;
+  height:50px;
+  border-radius: 6px;
+  font-size: 16px;
+  background: #FF6B00;
+
+  line-height: 50px;
+  cursor:pointer;
+}
+.btnWelcome
+{
+  display: block;
+  position: absolute;
+  margin-top: 35px;
+  left:50%;
+  transform: translateX(-50%);
+}
+@media screen and  (max-width: 500px)
+{
+
+  #login-logo
+  {
+    width:130px;
+  }
+
+  #login-form
+  {
+    margin-top: 65px;
+    height: 50%;
+
+  }
+  #inputsWrapper
+  {
+    margin-bottom: 5px;
+    height: 40%;
+  }
+  .login-form-element
+  {
+
+    line-height: 25px;
+    width:100%;
+    height:20%;
+
+    font-size: 13px;
+    margin-bottom: 10px;
+
+  }
+  .login-form-Icon
+  {
+      left: 2%;
+      top: 27%;
+      width: 10px;
+      height: 10px;
+  }
+/*  .login-form-element-input
+  {
+
+    margin-left: 10%;
+    width:90%;
+    height:100%;
+    border:none;
+    outline:none;
+  }
+*/
+
+  #cbRememberMe
+  {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  #underInputs-link
+  {
+    display: block;
+    float: none;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+  .btn
+  {
+    width:80%;
+    height:30px;
+    font-size: 12px;
+    line-height: 30px;
+
+  }
+  .btnWelcome
+  {
+    margin-top: 28px;
+  }
+
+}

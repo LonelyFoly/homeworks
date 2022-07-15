@@ -1,0 +1,250 @@
+
+a
+{
+  text-decoration:none;
+  color:	#FFF;
+}
+header
+{
+  display: block;
+  /*padding: 0 40px;*/
+  width:100%;
+  height:60px;
+  background-color: #001834;
+
+  font-size: 13px;
+  font-weight: 700;
+}
+#logoLink, nav, #logo, #profileNav
+{
+  display: inline-block;
+  vertical-align: middle;
+  width:auto;
+}
+#logoLink
+{
+  margin-left: 40px;
+  width:234px;
+  height:100%;
+}
+
+#profileNav
+{
+    float:right;
+        width:200px;
+    margin-top:15px;
+
+}
+.profileNav-icon
+{
+  width: 23px;
+    height: 24px;
+}
+.nav-link, .nav-element-arrow,.nav-element
+{
+  display: inline-block;
+}
+
+.nav-element
+{
+    vertical-align: middle;
+  margin-right: 27px;
+  position: relative;
+
+}
+.nav-link-text, .nav-link-underline
+{
+  display: block;
+}
+nav, .nav-element
+{
+  height:100%;
+}
+.nav-element_hidden
+{
+  display: none;
+}
+.nav-element-arrow
+{
+  position: absolute;
+  top:40%;
+  margin-left: 5px
+}
+.nav-link
+{
+  height:100%;
+  position: relative;
+}
+.nav-link-text
+{
+  position: relative;
+  top:30%;
+}
+.nav-link-underline
+{
+  width:100%;
+  height:5px;
+  background-color: #FFF;
+  position: absolute;
+  top:92%;
+  opacity:0;
+}
+.nav-link:hover .nav-link-underline
+{
+      animation: underlineToShow 0.5s linear;
+      opacity:1;
+}
+@keyframes underlineToShow
+{
+  0%{width:0%;}
+  100%{width:100%;}
+
+}
+#toClear
+{
+  clear:both;
+}
+.nav-element_mobile .nav-link .nav-link-text
+{
+  margin-bottom: 15px;
+  margin-top:5px;
+}
+/*всплывающее меню*/
+.menu_slide
+{
+  display: block;
+}
+.toggleMenu
+{
+  display: block;
+  position: relative;
+  background-color: #001834;
+  z-index: 3;
+  width:100%;
+}
+.toggleMenu-collumn
+{
+  display: inline-block;
+  width:20%;
+}
+.toggleMenu-collumn-element
+{
+  margin:40px 25px;
+}
+.toggleMenu-collumn-element h2
+{
+  font-weight: 500;
+      font-size: 22px;
+      line-height: 28px;
+      padding-bottom: 10px;
+}
+.toggleMenu-collumn-element p
+{
+  font-weight: 300;
+      font-size: 14px;
+      line-height: 16px;
+}
+.mobiletoggleMenu
+{
+  display: block;
+  position: relative;
+  background-color: #001834;
+  z-index: 3;
+  width:100%;
+  text-align: center;
+  height:auto;
+}
+.mobiletoggleMenu-collumn
+{
+  display: inline-block;
+  width:20%;
+}
+.mobiletoggleMenu-collumn-element
+{
+  margin:40px 25px;
+  vertical-align: top;
+}
+.mobiletoggleMenu-collumn-element h2
+{
+  font-weight: 500;
+      font-size: 22px;
+      line-height: 28px;
+      padding-bottom: 10px;
+}
+.mobiletoggleMenu-collumn-element p
+{
+  font-weight: 300;
+      font-size: 14px;
+      line-height: 16px;
+}
+@media screen and  (max-width: 940px)
+{
+  .mainNav
+  {
+    display: none;
+  }
+  .nav-element_tohidden
+  {
+    display: none !important;
+  }
+  .nav-element_hidden
+  {
+    display: inline-block !important;
+  }
+}
+@media screen and  (max-width: 640px)
+{
+
+  #profileNav {
+    float: right;
+    width: 150px
+  }
+  #logoLink
+  {
+    width:114px;
+    margin-left: 5%;
+  }
+  #logo{
+    width:114px;
+    height:30px;
+    position: relative;
+    transform: translateY(-50%);
+    top:50%;
+    left:0;
+  }
+  header
+  {
+
+    font-size: 8px;
+  }
+  .toggleMenu-collumn
+  {
+    width:30%;
+  }
+  .toggleMenu-collumn-element {
+    margin: 4px 0 4px 10px;
+}
+  .toggleMenu-collumn-element h2
+  {
+        font-size: 13px;
+        line-height: 28px;
+        padding-bottom: 10px;
+  }
+  .toggleMenu-collumn-element p
+  {
+        font-size: 9px;
+        line-height: 16px;
+  }
+  .mobiletoggleMenu-collumn-element h2
+  {
+        font-size: 13px;
+        line-height: 28px;
+        padding-bottom: 10px;
+  }
+  .mobiletoggleMenu-collumn-element p
+  {
+        font-size: 9px;
+        line-height: 16px;
+  }
+
+}

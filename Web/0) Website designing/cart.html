@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang = "zxx">
+<head>
+  <meta charset="utf-8"/>
+  <link href="./css/header_styles.css" rel="stylesheet" type="text/css"/>
+  <link href="./css/footer_styles.css" rel="stylesheet" type="text/css"/>
+  <link href="./css/cart_styles.css" rel="stylesheet" type="text/css"/>
+
+
+  <meta name="viewport" content="width=device-width"/>
+  <script src="scripts/index_script.js"> </script>
+
+  <title>Тележка</title>
+</head>
+<!--медиа для мобилки, планшетика-->
+<body onclick="toggleMenutoCLose();">
+  <header id="headerforJs">
+    <div id="profileNav">
+      <div class="nav-element"><a href = "#" class="nav-link">EN</a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+      <div class="nav-element"><a href = "./cart.html" class="nav-link"><img class ="profileNav-icon" alt="picture" src="./imgs/cart.svg"/></a></div>
+      <div class="nav-element nav-element_tohidden"><a href = "./loginIndex.html" class="nav-link"><img class ="profileNav-icon" alt="picture" src="./imgs/user.svg"/></a></div>
+      <div class="nav-element nav-element_hidden" onclick="togglemobileMenuToToggle();"><a class="nav-link"><img class ="profileNav-icon" alt="picture" src="./imgs/hidden_menu.png"/></a></div>
+    </div>
+    <a id ="logoLink" href="#" ><img id ="logo" alt="picture" src="./imgs/logo.svg"/></a>
+
+      <nav class="mainNav">
+        <div class="nav-element" onclick="toggleMenuToToggle(0);"> <a href = "#" class="nav-link"><p class="nav-link-text">PRODUCTS</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+        <div class="nav-element"> <a href = "#" class="nav-link"><p class="nav-link-text">PRICING</p><span class="nav-link-underline"> </span></a></div>
+        <div class="nav-element" onclick="toggleMenuToToggle(1);"><a href = "#" class="nav-link"><p class="nav-link-text">SERVICES</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+        <div class="nav-element" onclick="toggleMenuToToggle(2);" ><a href = "#" class="nav-link"><p class="nav-link-text">FOR PROS</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+        <div class="nav-element" onclick="toggleMenuToToggle(3);"><a href = "#" class="nav-link"><p class="nav-link-text">RESOURCES</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+      </nav>
+      <div class="mobiletoggleMenu" style="display: none;">
+
+          <div class="nav-element nav-element_mobile " onclick="toggleMenuToToggle(0);"> <a href = "#" class="nav-link"><p class="nav-link-text">PRODUCTS</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+          <div class="nav-element nav-element_mobile"> <a href = "#" class="nav-link"><p class="nav-link-text">PRICING</p><span class="nav-link-underline"> </span></a></div>
+          <div class="nav-element nav-element_mobile" onclick="toggleMenuToToggle(1);"><a href = "#" class="nav-link"><p class="nav-link-text">SERVICES</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+          <div class="nav-element nav-element_mobile" onclick="toggleMenuToToggle(2);"  ><a href = "#" class="nav-link"><p class="nav-link-text">FOR PROS</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+          <div class="nav-element nav-element_mobile" onclick="toggleMenuToToggle(3);"  ><a href = "#" class="nav-link"><p class="nav-link-text">RESOURCES</p><span class="nav-link-underline underline"> </span></a><img class ="nav-element-arrow" alt="picture" src="./imgs/arrow.svg"/></div>
+          <div class="nav-element nav-element_mobile"><a href = "./loginIndex.html" class="nav-link"><p class="nav-link-text">PROFILE</p></a></div>
+      </div>
+      <div class="toggleMenu" style="display: none;">
+        <div class="toggleMenu-collumn">
+          <div class="toggleMenu-collumn-element"><h2>All templates</h2><p>Discover all the types and kinds of MotoCMS website builder templates and choose a responsive modern design for your purpose!</p></div>
+          <div class="toggleMenu-collumn-element"><h2>All templates</h2><p>Discover all the types and kinds of MotoCMS website builder templates and choose a responsive modern design for your purpose!</p></div>
+        </div>
+        <div class="toggleMenu-collumn">
+          <div class="toggleMenu-collumn-element"><h2>All templates</h2><p>Discover all the types and kinds of MotoCMS website builder templates and choose a responsive modern design for your purpose!</p></div>
+          <div class="toggleMenu-collumn-element"><h2>All templates</h2><p>Discover all the types and kinds of MotoCMS website builder templates and choose a responsive modern design for your purpose!</p></div>
+        </div>
+      </div>
+      <div class="toggleMenu" style="display: none;">
+        <div class="toggleMenu-collumn">
+          <div class="toggleMenu-collumn-element"><h2>White Label</h2><p>Use all MotoCMS designs and re-sell them under your own brand with the white label website builder.</p></div>
+          <div class="toggleMenu-collumn-element"><h2>Hosting</h2><p>Pick a suitable plan from one of the most reputable hosting providers.</p></div>
+        </div>
+      </div>
+      <div class="toggleMenu" style="display: none;">
+        <div class="toggleMenu-collumn">
+          <div class="toggleMenu-collumn-element"><h2>MotoCMS Blog</h2><p>Get all the useful web design & development, SEO, and work-from-home tips from our pro blog team.</p></div>
+          <div class="toggleMenu-collumn-element"><h2>Support</h2><p>Ask questions and get fast expert answers concerning any aspect of site-building.</p></div>
+        </div>
+      </div>
+      <div class="toggleMenu" style="display: none;">
+        <div class="toggleMenu-collumn">
+          <div class="toggleMenu-collumn-element"><h2>Black Label</h2><p>Use all MotoCMS designs and re-sell them under your own brand with the white label website builder.</p></div>
+          <div class="toggleMenu-collumn-element"><h2>Position</h2><p>Pick a suitable plan from one of the most reputable hosting providers.</p></div>
+        </div>
+        <div class="toggleMenu-collumn">
+          <div class="toggleMenu-collumn-element"><h2>Black Label</h2><p>Use all MotoCMS designs and re-sell them under your own brand with the white label website builder.</p></div>
+          <div class="toggleMenu-collumn-element"><h2>Position</h2><p>Pick a suitable plan from one of the most reputable hosting providers.</p></div>
+        </div>
+      </div>
+
+    <span class="toClear"> </span>
+  </header>
+<main>
+
+<div id="Wrapper">
+  <h1 id ="Wrapper-header">Your Shopping Cart is Empty Yet</h1>
+  <img alt="picture" src="./imgs/cartMain.svg">
+  <div id ="bWrapper">
+  <div class="btn btnOther1">Templates</div>
+  <div class="btn btnOther">Services</div>
+</div>
+</div>
+</main>
+<footer>
+  <div class="footer-section1">
+    <div class="footer-section1-wrapper">
+    <div class="footer-section1-infoBlock">
+      <h2 class="Hinfoblock">PRODUCTS AND SERVICES</h2>
+      <a href = "#" class="infoBlock-link">Website Builder Templates</a>
+      <a href = "#" class="infoBlock-link">Ecommerce Templates</a>
+      <a href = "#" class="infoBlock-link">Landing Page Templates</a>
+      <a href = "#" class="infoBlock-link">Customer Services</a>
+    </div>
+    <div class="footer-section1-infoBlock">
+      <h2 class="Hinfoblock">COMPANY</h2>
+      <a href = "#" class="infoBlock-link">About Us</a>
+      <a href = "#" class="infoBlock-link">Why Choose Us</a>
+      <a href = "#" class="infoBlock-link">Release Notes</a>
+      <a href = "#" class="infoBlock-link">FAQs</a>
+      <a href = "#" class="infoBlock-link">Blog</a>
+    </div>
+
+    <div class="footer-section1-infoBlock">
+      <h2 class="Hinfoblock">PROJECTS</h2>
+      <a href = "#" class="infoBlock-link">White Label</a>
+      <a href = "#" class="infoBlock-link">Learn How to Make a Website</a>
+      <a href = "#" class="infoBlock-link">Made on MotoCMS</a>
+      <a href = "#" class="infoBlock-link">SEO Website Builder</a>
+    </div>
+    <div class="footer-section1-infoBlock">
+      <h2 class="Hinfoblock">COMPARE</h2>
+      <a href = "#" class="infoBlock-link">MotoCMS vs WordPress</a>
+      <a href = "#" class="infoBlock-link">MotoCMS vs Wix</a>
+      <a href = "#" class="infoBlock-link">MotoCMS vs Squarespace</a>
+      <a href = "#" class="infoBlock-link">MotoCMS vs Duda</a>
+    </div>
+    <div class="footer-section1-infoBlock">
+      <h2 class="Hinfoblock">CONTACTS</h2>
+      <a href = "#" class="infoBlock-link">Contact Us</a>
+      <a href = "#" class="infoBlock-link">Support</a>
+      <a href = "#" class="infoBlock-link">Submit a Request</a>
+    </div>
+    <div class="footer-section1-infoBlock">
+      <h2 class="Hinfoblock">FOLLOW</h2>
+      <div id="infoBlock-linkline">
+        <a href = "#" class="linkline-link"><img class ="linkline-link-icon" alt="picture" src="./imgs/facebook.svg"/></a>
+        <a href = "#" class="linkline-link"><img class ="linkline-link-icon" alt="picture" src="./imgs/twitter.svg"/></a>
+        <a href = "#" class="linkline-link"><img class ="linkline-link-icon" alt="picture" src="./imgs/youtube.svg"/></a>
+        <a href = "#" class="linkline-link"><img class ="linkline-link-icon" alt="picture" src="./imgs/linkedin.svg"/></a>
+        <a href = "#" class="linkline-link"><img class ="linkline-link-icon" alt="picture" src="./imgs/instagram.svg"/></a>
+        <a href = "#" class="linkline-link"><img class ="linkline-link-icon" alt="picture" src="./imgs/pinterest.svg"/></a>
+      </div>
+      <p id="infoBlock-underlinkline">Sign up to get the latest <br> news and discounts!</p>
+      <form>
+          <input id ="underlineInput" type="email" placeholder="Enter your email" rel="null">
+      </form>
+      <button class="btn btnSubscribe" type="submit" value="SUBSCRIBE" rel="null">Enter your email</button>
+
+    </div>
+  </div>
+</div>
+  <div class="footer-section2">
+    <div class="footer-section2-wrapper">
+    <p id="footer-section2-line-number">+1 914 233 57 88</p>
+    <div class="footer-section2-line">
+        <p class="footer-section2-line-text">Privacy Policy</p>
+        <p class="footer-section2-line-text">|</p>
+        <p class="footer-section2-line-text">Terms of Use</p>
+        <p class="footer-section2-line-text">|</p>
+        <p class="footer-section2-line-text">Refund Policy</p>
+    </div>
+
+    <p class="footer-section2-line">Copyright © 2021 MotoCMS.com. Maestro Solutions LTD. All Rights Reserved</p>
+    <div class="footer-section2-line">
+      <p class="footer-section2-line-text">TemplateMonster</p>
+      <p class="footer-section2-line-text">|</p>
+      <p class="footer-section2-line-text">Zemez</p>
+      <p class="footer-section2-line-text">|</p>
+      <p class="footer-section2-line-text">Crocoblock</p>
+      <p class="footer-section2-line-text">|</p>
+      <p class="footer-section2-line-text">Weblium</p>
+      <p class="footer-section2-line-text">|</p>
+      <p class="footer-section2-line-text">MotoPress</p>
+      <p class="footer-section2-line-text">|</p>
+      <p class="footer-section2-line-text">MonsterONE</p>
+      <p class="footer-section2-line-text">|</p>
+      <p class="footer-section2-line-text">Web Design Library</p>
+      <p class="footer-section2-line-text">|</p>
+    </div>
+    </div>
+  </div>
+</footer>
+</body>
+
+</html>

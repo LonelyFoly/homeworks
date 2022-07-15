@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "zxx">
+<head>
+  <meta charset="utf-8"/>
+  <link href="./css/styles.css" rel="stylesheet" type="text/css"/>
+  <script src="scripts/index_script.js"> </script>
+  <title> Формочка</title>
+</head>
+
+<body>
+  <form name = "main_form" class= "main_form" method ="get" onsubmit="return func_input();" >
+<h1>Неподозрительная покупка конфеток</h1>
+<div id="Choices">
+<p> <label for="control1">Номер телефона<span class = "special">*</span> </label><br> <input type = "text"
+  name= "control1" id="control1" placeholder="Введите"/> </p>
+<p> <label for="control2">ФИО<span class = "special">*</span> </label><br> <input type = "text"
+  name= "control2" id="control2" placeholder="Введите"/> </p>
+<p> <label for="control3">Номер кредитной карты<span class = "special">*</span> </label><br> <input type = "password"
+  name= "control3" id="control3" placeholder="Введите"/> </p>
+  <p> <label for="control4">Почта </label><br> <input type = "email"
+    name= "control4" id="control4"  placeholder="Введите"/> </p>
+<label for="control4">Выбор</label><span class = "special">*</span>
+<br>
+<select name="selector1" id="selector1">
+  <option value="0">~~~Сделайте выбор~~~</option>
+  <option value="1">Это</option>
+  <option value="2">Нет, это</option>
+  <option value="3">Вон то?</option>
+  <option value="4">Или всё-таки это?</option>
+</select>
+</div>
+
+<div id="Fillers">
+<p><label for="descr">Адрес:  <span class = "special">*</span></label><br><textarea id ="descr" name = "descr"  placeholder="Введите"></textarea></p>
+<p><label for="descr2">Пожелания:</label><br><textarea id ="descr2" name = "descr2"  placeholder="Введите"></textarea></p>
+<p> Нужно ли приложить салфеточки? <span class = "special">*</span><br>
+<label><input type = "radio" name ="b1" id="b1" value ="yes"/>Ага</label>
+<label><input type = "radio" name ="b1" id="b2" value ="no"/>Неа</label>
+<br>
+<br>
+<label><input type = "checkbox"  name ="c1"/>Быстрая доставка</label>
+<br>
+<label><input type = "checkbox"  name ="c2"/>Индексировать посылку</label>
+<br>
+<input type="submit" value="Заказать" name="subbutton" id ="subbutton"/>
+
+</div>
+  </form>
+
+</body>
+</html>
