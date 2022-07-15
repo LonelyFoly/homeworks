@@ -1,0 +1,61 @@
+C:\Users\Foly\Desktop\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\Foly\Desktop\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Tanks\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\Tanks\Tanks\obj\Debug\Tanks.Form1.resources
+C:\Users\Foly\Desktop\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+C:\Users\Foly\Desktop\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Tanks\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\obj\Debug\Tanks.Form1.resources
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\obj\Debug\Tanks.Form1.resources
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks_test\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\obj\Debug\Tanks.Form1.resources
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Позже\Tanks\Tanks\obj\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\bin\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\bin\Debug\Tanks.pdb
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\obj\Debug\Tanks.Form1.resources
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\obj\Debug\Tanks.exe
+C:\Users\Foly\Desktop\Tanks — копия\Tanks\obj\Debug\Tanks.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\bin\Debug\Tanks.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\bin\Debug\Tanks.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\bin\Debug\Tanks.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.Form1.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Tanks\Tanks\obj\Debug\Tanks.pdb

@@ -1,0 +1,23 @@
+C:\Users\Foly\Desktop\The Zoo\The Zoo\bin\Debug\The Zoo.exe.config
+C:\Users\Foly\Desktop\The Zoo\The Zoo\bin\Debug\The Zoo.exe
+C:\Users\Foly\Desktop\The Zoo\The Zoo\bin\Debug\The Zoo.pdb
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The Zoo.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The_Zoo.Form1.resources
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The_Zoo.Properties.Resources.resources
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The Zoo.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The Zoo.exe
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The Zoo.pdb
+C:\Users\Foly\Desktop\The Zoo\The Zoo\obj\Debug\The_Zoo.DialogForm.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\bin\Debug\The Zoo.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\bin\Debug\The Zoo.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\bin\Debug\The Zoo.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The Zoo.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The Zoo.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The_Zoo.DialogForm.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The_Zoo.Form1.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The_Zoo.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The Zoo.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The Zoo.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The Zoo.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\The Zoo\The Zoo\obj\Debug\The Zoo.pdb

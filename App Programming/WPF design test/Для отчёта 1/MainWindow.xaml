@@ -1,0 +1,143 @@
+﻿<Window x:Class="Для_отчёта_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Для_отчёта_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/><!-- Приветствие-->
+            <RowDefinition /><!-- Прогресс-->
+            <RowDefinition/><!-- Тест-->
+            <RowDefinition /><!-- Приколы-->
+        </Grid.RowDefinitions>
+        
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            
+        
+
+        
+
+            <CheckBox x:Name="chb1" Grid.Row="2" Grid.Column="0" Margin="30,10,0,0" Checked="chb1_Checked" Unchecked="chb1_Unchecked">
+                Коты не любят бородатых +
+            <CheckBox.RenderTransform >
+                <RotateTransform x:Name="vzhux1" CenterX="0" CenterY="0" Angle="0" />
+            </CheckBox.RenderTransform>
+            <CheckBox.Triggers>
+                <EventTrigger RoutedEvent="CheckBox.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="vzhux1"
+                                 Storyboard.TargetProperty="Angle" From="0"
+                                To="360" Duration="0:0:0.7"  />
+                        </Storyboard>
+                        
+                    </BeginStoryboard>
+                </EventTrigger>
+
+            </CheckBox.Triggers>
+        </CheckBox>
+        <CheckBox x:Name="chb2" Grid.Row="2" Grid.Column="1" Margin="30,10,0,0" Checked="chb2_Checked" Unchecked="chb2_Unchecked">
+            <TextBlock TextWrapping="Wrap">
+               Чрезмерная любовь к котам называется
+            
+            гамомания - 
+            </TextBlock>
+            <CheckBox.Triggers>
+                <EventTrigger RoutedEvent="CheckBox.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="vzhux2"
+                                 Storyboard.TargetProperty="Angle" From="0"
+                                To="360" Duration="0:0:0.7"  />
+                        </Storyboard>
+
+                    </BeginStoryboard>
+                </EventTrigger>
+
+            </CheckBox.Triggers>
+            <CheckBox.RenderTransform >
+                <RotateTransform x:Name="vzhux2" CenterX="0" CenterY="0" Angle="0" />
+            </CheckBox.RenderTransform>
+            
+        </CheckBox>
+        <CheckBox x:Name="chb3" Grid.Row="2" Grid.Column="2" Margin="30,10,0,0" Checked="chb3_Checked" Unchecked="chb3_Unchecked" >
+            <TextBlock TextWrapping="Wrap">Сиамские кошки почти всегда косоглазые +</TextBlock>
+            <CheckBox.RenderTransform >
+                <RotateTransform x:Name="vzhux3" CenterX="0" CenterY="0" Angle="0" />
+            </CheckBox.RenderTransform>
+            <CheckBox.Triggers>
+                <EventTrigger RoutedEvent="CheckBox.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="vzhux3"
+                                 Storyboard.TargetProperty="Angle" From="0"
+                                To="360" Duration="0:0:0.7"  />
+                        </Storyboard>
+
+                    </BeginStoryboard>
+                </EventTrigger>
+
+            </CheckBox.Triggers>
+        </CheckBox>
+        <CheckBox x:Name="chb4" Grid.Row="2" Grid.Column="3" Margin="30,10,30,0" Checked="chb4_Checked" Unchecked="chb4_Unchecked">
+            <TextBlock TextWrapping="Wrap">В космосе бывали котики</TextBlock>
+            <CheckBox.RenderTransform >
+                <RotateTransform x:Name="vzhux4" CenterX="0" CenterY="0" Angle="0" />
+            </CheckBox.RenderTransform>
+            <CheckBox.Triggers>
+                <EventTrigger RoutedEvent="CheckBox.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="vzhux4"
+                                 Storyboard.TargetProperty="Angle" From="0"
+                                To="360" Duration="0:0:0.7"  />
+                        </Storyboard>
+
+                    </BeginStoryboard>
+                </EventTrigger>
+
+            </CheckBox.Triggers>
+        </CheckBox>
+       
+        
+        <!--<MediaElement Grid.Row="3" Grid.ColumnSpan="4" x:Name="gif" UnloadedBehavior="Manual" Source="C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\catrun.gif" MediaEnded="myGif_MediaEnded"  
+                      LoadedBehavior="Play" Stretch="None"  Visibility="Visible"/>-->
+        <Button x:Name="mainButton" Grid.Row="3" Grid.ColumnSpan="4" Margin="0,-100,0,0" Height="40" Width="200" Click="Button_Click">
+            Узнать!
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="progressBar1" Storyboard.TargetProperty="Width"  To="50" Duration="0:0:1" AutoReverse="True" />
+                            
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                
+            </Button.Triggers>
+        </Button>
+        <!--<ListBox x:Name="DataList"  Grid.Row="1" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>-->
+        <StackPanel  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4">
+            <TextBlock  Text="Насколько вы знаете котиков?" HorizontalAlignment="Center" FontSize="25" FontFamily="Comic Sans MS"/>
+            <ProgressBar x:Name="progressBar1" Minimum="0" Maximum="100" Margin="0,10,0,10" Height="60" Width="600">
+                
+            </ProgressBar>
+
+        </StackPanel>
+        <!-- </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>-->
+            
+    </Grid>
+    
+</Window>

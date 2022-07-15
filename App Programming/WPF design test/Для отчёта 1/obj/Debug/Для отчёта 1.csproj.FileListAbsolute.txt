@@ -1,0 +1,47 @@
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\bin\Debug\Для отчёта 1.exe.config
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\bin\Debug\Для отчёта 1.exe
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\bin\Debug\Для отчёта 1.pdb
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\MainWindow.g.cs
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\App.g.cs
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1_MarkupCompile.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1_MarkupCompile.lref
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\MainWindow.baml
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.g.resources
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для_отчёта_1.Properties.Resources.resources
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.exe
+C:\Users\Foly\Desktop\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\bin\Debug\Для отчёта 1.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\bin\Debug\Для отчёта 1.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\bin\Debug\Для отчёта 1.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\MainWindow.g.cs
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\App.g.cs
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1_MarkupCompile.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1_MarkupCompile.lref
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\MainWindow.baml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.g.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для_отчёта_1.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёта 1\obj\Debug\Для отчёта 1.pdb
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\bin\Debug\Для отчёта 1.exe.config
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\bin\Debug\Для отчёта 1.exe
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\bin\Debug\Для отчёта 1.pdb
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.AssemblyReference.cache
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\MainWindow.g.cs
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\App.g.cs
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1_MarkupCompile.cache
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1_MarkupCompile.lref
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\MainWindow.baml
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1.g.resources
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для_отчёта_1.Properties.Resources.resources
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1.exe
+C:\Users\Foly\Desktop\Github\homeworks\App Programming\WPF design test\Для отчёта 1\obj\Debug\Для отчёта 1.pdb

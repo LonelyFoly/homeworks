@@ -1,0 +1,63 @@
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\Series.exe.config
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\Series.exe
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\Series.pdb
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.Form1.resources
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.Properties.Resources.resources
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.exe
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.pdb
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Buffers.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Memory.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Text.Json.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.ValueTuple.dll
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Buffers.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Memory.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Text.Json.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Foly\Desktop\Series\Series\bin\Debug\System.ValueTuple.xml
+C:\Users\Foly\Desktop\Series\Series\obj\Debug\Series.csproj.CopyComplete
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\Series.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\Series.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\Series.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\Newtonsoft.Json.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Buffers.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Memory.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Numerics.Vectors.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Text.Encodings.Web.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Text.Json.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.ValueTuple.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\Newtonsoft.Json.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Buffers.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Memory.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Numerics.Vectors.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Text.Encodings.Web.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Text.Json.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\bin\Debug\System.ValueTuple.xml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.Form1.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.csproj.CopyComplete
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Series\Series\obj\Debug\Series.pdb

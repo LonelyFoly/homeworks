@@ -1,0 +1,41 @@
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\MainWindow.g.cs
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\App.g.cs
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3_MarkupCompile.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3_MarkupCompile.lref
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\bin\Debug\Для отчёт 3.exe.config
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\bin\Debug\Для отчёт 3.exe
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\bin\Debug\Для отчёт 3.pdb
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\MainWindow.baml
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.g.resources
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для_отчёт_3.Properties.Resources.resources
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.exe
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.pdb
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\bin\Debug\taglib-sharp.dll
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.CopyComplete
+C:\Users\Foly\Desktop\WpfApp1\Для отчёт 3\obj\Debug\App.baml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\bin\Debug\Для отчёт 3.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\bin\Debug\Для отчёт 3.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\bin\Debug\Для отчёт 3.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\bin\Debug\taglib-sharp.dll
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\MainWindow.g.cs
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\App.g.cs
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3_MarkupCompile.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3_MarkupCompile.lref
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\App.baml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\MainWindow.baml
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.g.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для_отчёт_3.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.csproj.CopyComplete
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Учёба говна\WpfApp1\Для отчёт 3\obj\Debug\Для отчёт 3.pdb

@@ -1,0 +1,31 @@
+C:\Users\hikik\source\repos\Faces\Faces\bin\Debug\Faces.exe.config
+C:\Users\hikik\source\repos\Faces\Faces\bin\Debug\Faces.exe
+C:\Users\hikik\source\repos\Faces\Faces\bin\Debug\Faces.pdb
+C:\Users\hikik\source\repos\Faces\Faces\obj\Debug\Faces.csprojAssemblyReference.cache
+C:\Users\hikik\source\repos\Faces\Faces\obj\Debug\Faces.Form1.resources
+C:\Users\hikik\source\repos\Faces\Faces\obj\Debug\Faces.Properties.Resources.resources
+C:\Users\hikik\source\repos\Faces\Faces\obj\Debug\Faces.csproj.GenerateResource.cache
+C:\Users\hikik\source\repos\Faces\Faces\obj\Debug\Faces.csproj.CoreCompileInputs.cache
+C:\Users\hikik\source\repos\Faces\Faces\obj\Debug\Faces.exe
+C:\Users\hikik\source\repos\Faces\Faces\obj\Debug\Faces.pdb
+C:\Users\Foly\Desktop\Faces\Faces\bin\Debug\Faces.exe.config
+C:\Users\Foly\Desktop\Faces\Faces\bin\Debug\Faces.exe
+C:\Users\Foly\Desktop\Faces\Faces\bin\Debug\Faces.pdb
+C:\Users\Foly\Desktop\Faces\Faces\obj\Debug\Faces.csprojAssemblyReference.cache
+C:\Users\Foly\Desktop\Faces\Faces\obj\Debug\Faces.Form1.resources
+C:\Users\Foly\Desktop\Faces\Faces\obj\Debug\Faces.Properties.Resources.resources
+C:\Users\Foly\Desktop\Faces\Faces\obj\Debug\Faces.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Faces\Faces\obj\Debug\Faces.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Faces\Faces\obj\Debug\Faces.exe
+C:\Users\Foly\Desktop\Faces\Faces\obj\Debug\Faces.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\bin\Debug\Faces.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\bin\Debug\Faces.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\bin\Debug\Faces.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.Form1.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\Несортированная домашка\Faces\Faces\obj\Debug\Faces.pdb
