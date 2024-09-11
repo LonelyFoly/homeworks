@@ -1,0 +1,67 @@
+D:\Зачетное\Зачетное\bin\Debug\Зачетное.exe.config
+D:\Зачетное\Зачетное\bin\Debug\Зачетное.exe
+D:\Зачетное\Зачетное\bin\Debug\Зачетное.pdb
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.csprojAssemblyReference.cache
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.Form1.resources
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.Properties.Resources.resources
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.GenerateResource.cache
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.exe
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.pdb
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.Form_editor.resources
+D:\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.CoreCompileInputs.cache
+F:\Зачетное\Зачетное\bin\Debug\Зачетное.exe.config
+F:\Зачетное\Зачетное\bin\Debug\Зачетное.exe
+F:\Зачетное\Зачетное\bin\Debug\Зачетное.pdb
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.csprojAssemblyReference.cache
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.Form1.resources
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.Form_editor.resources
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.Properties.Resources.resources
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.GenerateResource.cache
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.CoreCompileInputs.cache
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.exe
+F:\Зачетное\Зачетное\obj\Debug\Зачетное.pdb
+F:\Устаревшее\Зачетное\Зачетное\bin\Debug\Зачетное.exe.config
+F:\Устаревшее\Зачетное\Зачетное\bin\Debug\Зачетное.exe
+F:\Устаревшее\Зачетное\Зачетное\bin\Debug\Зачетное.pdb
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.csprojAssemblyReference.cache
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.Form1.resources
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.Form_editor.resources
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.Properties.Resources.resources
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.GenerateResource.cache
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.CoreCompileInputs.cache
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.exe
+F:\Устаревшее\Зачетное\Зачетное\obj\Debug\Зачетное.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\bin\Debug\Зачетное.exe.config
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\bin\Debug\Зачетное.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\bin\Debug\Зачетное.pdb
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.AssemblyReference.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.Form1.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.Form_editor.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.Properties.Resources.resources
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.GenerateResource.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.CoreCompileInputs.cache
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.exe
+D:\Учёба\Флешка (требуется сортировка)\Устаревшее\1й курс\Зачетное\Зачетное\obj\Debug\Зачетное.pdb
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\bin\Debug\Зачетное.exe.config
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\bin\Debug\Зачетное.exe
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\bin\Debug\Зачетное.pdb
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.AssemblyReference.cache
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.Form1.resources
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.Form_editor.resources
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.Properties.Resources.resources
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.exe
+C:\Users\Foly\Desktop\Мои хоть какие-то проекты\Зачетное\Зачетное\obj\Debug\Зачетное.pdb
+C:\Users\Foly\Desktop\Зачетное\Зачетное\bin\Debug\Зачетное.exe.config
+C:\Users\Foly\Desktop\Зачетное\Зачетное\bin\Debug\Зачетное.exe
+C:\Users\Foly\Desktop\Зачетное\Зачетное\bin\Debug\Зачетное.pdb
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.AssemblyReference.cache
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.Form1.resources
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.Form_editor.resources
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.Properties.Resources.resources
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.GenerateResource.cache
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.csproj.CoreCompileInputs.cache
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.exe
+C:\Users\Foly\Desktop\Зачетное\Зачетное\obj\Debug\Зачетное.pdb
